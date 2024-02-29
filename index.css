@@ -1,0 +1,153 @@
+@font-face {
+    font-family: "breaking";
+    src: url(font/Breaking.ttf);
+}
+#poster{
+
+    width: 700px ;  
+    height: 300px;
+    border: 10px outset brown ;
+    border-radius: 22px;
+}
+
+#logo{
+    
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+  
+#titulo{
+    color: white;
+    font-family: "breaking";
+    font-size: 30px;
+}
+
+.index{
+    text-align: center;
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.Fondoformu{
+    text-align: center;
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+          
+}
+#formulario{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: center;
+    font-family: Helvetica;
+    color: azure;
+    background-color: rgb(13, 56, 60);
+    
+   
+}
+fieldset{
+    border-radius: 5px;
+}
+
+
+
+#cabecera{
+   width: 500px;
+   height: 200px;
+    text-align: center;
+    
+}
+
+.pagina{
+    background-color:#0c3e11 ;
+    text-align: center;
+    
+}
+
+table{
+    
+    background-color: black;
+    margin: auto;
+    border-spacing: 8px;
+    color: black;
+    
+    font-family: Helvetica;
+    font-size: 8px;
+    empty-cells: hide;
+    table-layout:auto;
+    
+    
+    
+
+}
+td{
+    
+    width: 65px;
+    height: 50px;
+}
+.fondo{
+    background-color: rgba(111, 147, 28, 0.628);
+    
+    
+    
+}
+span{
+    font-size: 25px;
+
+}
+.fondo1{
+    background-color: rgb(187, 255, 85);
+}
+.fondo2{
+    background-color: rgb(255, 241, 241);
+}
+
+.fondo3{
+    background-color: rgba(252, 252, 151, 0.832);
+}
+.fondo4{
+    background-color: #6a621b6b;
+}
+.fondo5{
+    background-color: rgba(222, 255, 57, 0.801);
+}
+.fondo6{
+    background-color: rgba(207, 203, 245, 0.937);
+}
+.fondo7{
+    background-color: rgb(200, 97, 244);
+}
+.fondo8{
+    background-color: rgba(136, 188, 5, 0.785);
+}
+
+.imagen{
+    width: 50px;
+    height: 50px;
+}
+.hank{
+    background-image: url(img/hankschrader.png);
+    background-repeat: no-repeat;
+}
+.tabla1{
+    width: 750;
+    height: 450;
+}
+.tabla2{
+    width: 700px;
+    height: 100px;
+}
+
+.color2{
+    background-color:rgb(175, 175, 7) ;
+
+}
+
+
